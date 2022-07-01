@@ -1,0 +1,15 @@
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\bin\Debug\net6.0\CStask03.exe
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\bin\Debug\net6.0\CStask03.deps.json
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\bin\Debug\net6.0\CStask03.runtimeconfig.json
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\bin\Debug\net6.0\CStask03.dll
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\bin\Debug\net6.0\CStask03.pdb
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.csproj.AssemblyReference.cache
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.AssemblyInfoInputs.cache
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.AssemblyInfo.cs
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.csproj.CoreCompileInputs.cache
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.dll
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\refint\CStask03.dll
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.pdb
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\CStask03.genruntimeconfig.cache
+C:\Users\Name\Documents\GitHub\antra_05\CStask03\CStask03\obj\Debug\net6.0\ref\CStask03.dll
